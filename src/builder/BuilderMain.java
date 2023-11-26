@@ -80,7 +80,7 @@ class Auto {
         private String body;
         private String engine;
 
-        public AutoBuilder() {
+        private AutoBuilder() {
         }
 
         public AutoBuilder power(String power) {
